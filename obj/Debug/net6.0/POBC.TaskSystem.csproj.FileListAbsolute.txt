@@ -9,3 +9,9 @@ F:\仓库\GitHub\pobccore\POBC.Task\obj\Debug\net6.0\TaskSystem.dll
 F:\仓库\GitHub\pobccore\POBC.Task\obj\Debug\net6.0\refint\TaskSystem.dll
 F:\仓库\GitHub\pobccore\POBC.Task\obj\Debug\net6.0\TaskSystem.pdb
 F:\仓库\GitHub\pobccore\POBC.Task\obj\Debug\net6.0\ref\TaskSystem.dll
+C:\Users\13110\source\repos\POBC.Task\obj\Debug\net6.0\POBC.TaskSystem.csproj.AssemblyReference.cache
+C:\Users\13110\source\repos\POBC.Task\obj\Debug\net6.0\POBC.TaskSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\source\repos\POBC.Task\obj\Debug\net6.0\POBC.TaskSystem.csproj.CoreCompileInputs.cache
+C:\Users\13110\source\repos\POBC.Task\obj\Debug\net6.0\TaskSystem.dll
+C:\Users\13110\source\repos\POBC.Task\obj\Debug\net6.0\refint\TaskSystem.dll
+C:\Users\13110\source\repos\POBC.Task\obj\Debug\net6.0\TaskSystem.pdb

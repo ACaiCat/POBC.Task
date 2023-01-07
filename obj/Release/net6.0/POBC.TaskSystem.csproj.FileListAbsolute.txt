@@ -1,0 +1,11 @@
+C:\Users\13110\source\repos\POBC.Task\bin\Release\net6.0\HttpServer.dll
+C:\Users\13110\source\repos\POBC.Task\bin\Release\net6.0\TaskSystem.deps.json
+C:\Users\13110\source\repos\POBC.Task\bin\Release\net6.0\TaskSystem.dll
+C:\Users\13110\source\repos\POBC.Task\bin\Release\net6.0\TaskSystem.pdb
+C:\Users\13110\source\repos\POBC.Task\obj\Release\net6.0\POBC.TaskSystem.csproj.AssemblyReference.cache
+C:\Users\13110\source\repos\POBC.Task\obj\Release\net6.0\POBC.TaskSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\source\repos\POBC.Task\obj\Release\net6.0\POBC.TaskSystem.csproj.CoreCompileInputs.cache
+C:\Users\13110\source\repos\POBC.Task\obj\Release\net6.0\TaskSystem.dll
+C:\Users\13110\source\repos\POBC.Task\obj\Release\net6.0\refint\TaskSystem.dll
+C:\Users\13110\source\repos\POBC.Task\obj\Release\net6.0\TaskSystem.pdb
+C:\Users\13110\source\repos\POBC.Task\obj\Release\net6.0\ref\TaskSystem.dll
